@@ -62,7 +62,7 @@ Set up accounts on **GitHub**, **LinkedIn**, and **Kaggle**. Created a GitHub pr
 ### Task 3 – Coding & Collaboration Platforms
 Completed a beginner challenge on **HackerRank** (Solve Me First). Built a 5-question **Google Form** for a Digital Literacy Awareness Quiz, linked to a Google Sheet for response collection.
 
-🔗 **Digital Literacy Quiz (Google Form):** _[Link to be added after form creation on Google Forms]_
+**Digital Literacy Quiz (Google Form):** _[Link to be added after form creation on Google Forms]_
 
 ### Task 4 – Professional Email & Etiquette
 Drafted two professional emails — one requesting an assignment deadline extension, and one expressing interest in a summer internship. Also created a Social Media Do's and Don'ts checklist for college students.
