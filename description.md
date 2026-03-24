@@ -1,3 +1,4 @@
+![Digital Literacy Infographic](infographic.png)
 # Task 1 – Digital Literacy Awareness Infographic
 
 ## Tool Used
