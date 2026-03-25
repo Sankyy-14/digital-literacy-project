@@ -35,5 +35,3 @@ The form is linked to a Google Sheet that automatically collects and organises r
 HackerRank was more approachable than I expected. The interface is clean and it gives immediate feedback — when my code passed all test cases, it was genuinely satisfying. I plan to continue solving problems on HackerRank to build problem-solving skills alongside my coursework. Google Forms was something I had used before to fill out surveys, but building one from scratch — especially thinking about question types and how the responses link to a spreadsheet — was a new and practical experience. These tools will help me both academically (organising data, practising coding) and in collaborative projects where real-time sharing and feedback are important.
 
 ---
-
-*Note: Screenshots of the HackerRank challenge result and the Google Form (+ linked Sheet) should be added to this folder.*
