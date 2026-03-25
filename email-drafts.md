@@ -24,7 +24,7 @@ Sanket Suri,
 
 25BAI10680,
 
-B.Tech CSE (AI) First Year
+B.Tech CSE (AIML) First Year
 
 VIT Bhopal University
 
