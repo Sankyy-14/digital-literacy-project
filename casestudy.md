@@ -1,7 +1,7 @@
 # Case Study – UPI/Online Payment Fraud
 
 **Cybercrime Type:** UPI/Online Payment Fraud  
-**Prepared by:** Sanket Suri | 25BAI10680 | CSE0001 – Digital Literacy
+**Prepared by:** Sanket Suri | 25BAI10680 | CSE0001 Digital Literacy 
 
 ---
 
