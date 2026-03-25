@@ -19,38 +19,6 @@
 
 This repository is my Digital Literacy Portfolio, created as part of the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, I have completed five tasks spanning digital awareness, professional online presence, coding platforms, email communication, and cybercrime awareness.
 
----
-
-## Repository Structure
-
-```
-digital-literacy-project/
-│
-├── README.md                          ← This file
-├── report/
-│   └── Project_Report.docx            ← Full written project report
-│
-├── task-1-presentation/
-│   └── description.md                 ← Infographic tool & design description
-│
-├── task-2-portfolio/
-│   └── portfolio-reflection.md        ← Platform setup & reflection notes
-│
-├── task-3-platforms/
-│   ├── platforms-reflection.md        ← Coding + Google Forms reflection
-│   └── digital-literacy-quiz-link.md  ← Google Form quiz link
-│
-├── task-4-email-etiquette/
-│   ├── email-drafts.md                ← Two professional email drafts
-│   └── social-media-checklist.md      ← Social media Do's and Don'ts
-│
-└── task-5-cybercrime/
-    ├── casestudy.md                   ← UPI/Online Payment Fraud case study
-    └── prevention-checklist.md        ← Stay Safe Online checklist
-```
-
----
-
 ## Module Summaries
 
 ### Task 1 – Digital Literacy Infographic
@@ -65,10 +33,10 @@ Completed a beginner challenge on **HackerRank** (Solve Me First). Built a 5-que
 **Digital Literacy Quiz (Google Form):** _[Link to be added after form creation on Google Forms]_
 
 ### Task 4 – Professional Email & Etiquette
-Drafted two professional emails — one requesting an assignment deadline extension, and one expressing interest in a summer internship. Also created a Social Media Do's and Don'ts checklist for college students.
+Drafted two professional emails one requesting an assignment deadline extension, and one expressing interest in a summer internship. Also created a Social Media Do's and Don'ts checklist for college students.
 
 ### Task 5 – Cybercrime Awareness
-Researched **UPI/Online Payment Fraud** — one of the most common cybercrimes targeting college students in India. Produced a detailed case study and an 8-point prevention checklist with UPI-specific tips and reporting channels.
+Researched **UPI/Online Payment Fraud** one of the most common cybercrimes targeting college students in India. Produced a detailed case study and an 8-point prevention checklist with UPI-specific tips and reporting channels.
 
 ---
 
