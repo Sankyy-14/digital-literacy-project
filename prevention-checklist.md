@@ -31,9 +31,9 @@
 
 If you or someone you know is a victim of cybercrime or online fraud:
 
-- 🌐 **National Cyber Crime Portal:** [cybercrime.gov.in](https://cybercrime.gov.in)
-- 📞 **Cyber Crime Helpline:** **1930** (24x7, available across India)
-- 🏦 **Immediately contact your bank** to freeze the transaction if it happened recently
+- **National Cyber Crime Portal:** [cybercrime.gov.in](https://cybercrime.gov.in)
+- **Cyber Crime Helpline:** **1930** (24x7, available across India)
+- **Immediately contact your bank** to freeze the transaction if it happened recently
 
 ---
 
