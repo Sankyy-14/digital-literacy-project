@@ -4,7 +4,7 @@ A responsible digital presence checklist for first-year students.
 
 ---
 
-## DO's ✅
+## DO's 
 
 1. **Keep your profiles professional** – Use a clear, appropriate profile photo and a bio that reflects your academic/professional interests.
 2. **Think before you post** – Ask yourself: "Would I be comfortable if my professor, parent, or future employer saw this?" If not, don't post it.
@@ -16,7 +16,7 @@ A responsible digital presence checklist for first-year students.
 
 ---
 
-## DON'Ts ❌
+## DON'Ts 
 
 1. **Don't share your location in real time** – Posting "I'm at X place right now" publicly can compromise your physical safety.
 2. **Don't engage in or ignore cyberbullying** – Neither participating in bullying nor staying silent when you see it is acceptable.
