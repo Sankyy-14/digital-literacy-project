@@ -9,6 +9,7 @@ I created an account on HackerRank and completed the **"Solve Me First"** challe
 **Challenge completed:** Solve Me First  
 **Language used:** Python 3  
 **Result:** Accepted (all test cases passed)
+
 ![Digital Literacy HackerRank](TestCase0.png)
 ![Digital Literacy HackerRank](TestCase1.png)
 
