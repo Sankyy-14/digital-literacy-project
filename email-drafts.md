@@ -19,10 +19,15 @@ I would be grateful for your consideration and will be happy to discuss this fur
 Thank you for your time.
 
 Warm regards,
+
 Sanket Suri,
+
 25BAI10680,
+
 B.Tech CSE (AI) First Year
+
 VIT Bhopal University
+
 Email: sanket.25bai10680@vitbhopal.ac.in
 
 ---
@@ -44,10 +49,17 @@ Please find my details below. I would welcome the opportunity to speak with you 
 Thank you very much for considering my application.
 
 Yours sincerely,
+
 Sanket Suri
+
 25BAI10680
+
 B.Tech CSE (AIML) First Year
+
 VIT Bhopal University
+
 GitHub: _(github.com/Sankyy-14)_
+
 LinkedIn: _(https://www.linkedin.com/in/sanket-suri-b379323b9/)_
+
 Email: _(sanket.25bai10680@vitbhopal.ac.in)_
