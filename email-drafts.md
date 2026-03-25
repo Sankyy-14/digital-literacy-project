@@ -58,7 +58,7 @@ B.Tech CSE (AIML) First Year
 
 VIT Bhopal University
 
-GitHub: _(github.com/Sankyy-14)_
+GitHub: _(https://github.com/Sankyy-14)_
 
 LinkedIn: _(https://www.linkedin.com/in/sanket-suri-b379323b9/)_
 
