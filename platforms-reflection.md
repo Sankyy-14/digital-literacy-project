@@ -9,6 +9,8 @@ I created an account on HackerRank and completed the **"Solve Me First"** challe
 **Challenge completed:** Solve Me First  
 **Language used:** Python 3  
 **Result:** Accepted (all test cases passed)
+![Digital Literacy HackerRank](TestCase0.png)
+![Digital Literacy HackerRank](TestCase1.png)
 
 ---
 
@@ -32,6 +34,6 @@ The form is linked to a Google Sheet that automatically collects and organises r
 
 ## Reflection
 
-HackerRank was more approachable than I expected. The interface is clean and it gives immediate feedback — when my code passed all test cases, it was genuinely satisfying. I plan to continue solving problems on HackerRank to build problem-solving skills alongside my coursework. Google Forms was something I had used before to fill out surveys, but building one from scratch — especially thinking about question types and how the responses link to a spreadsheet — was a new and practical experience. These tools will help me both academically (organising data, practising coding) and in collaborative projects where real-time sharing and feedback are important.
+HackerRank was more approachable than I expected. The interface is clean and it gives immediate feedback. When my code passed all test cases, it was genuinely satisfying. I plan to continue solving problems on HackerRank to build problem-solving skills alongside my coursework. Google Forms was something I had used before to fill out surveys, but building one from scratch especially thinking about question types and how the responses link to a spreadsheet was a new and practical experience. These tools will help me both academically (organising data, practising coding) and in collaborative projects where real-time sharing and feedback are important.
 
 ---
